@@ -23,5 +23,4 @@ app.log
 
 # env
 .env
-build
 .sass-cache
